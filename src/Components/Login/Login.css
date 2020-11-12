@@ -1,0 +1,16 @@
+.login-container{
+    text-align: center;
+    width: 40%;
+    border: 1px solid gray;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.login-container input{
+    height: 40px;
+    width: 90%;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+.btn{
+    background-color: gold;
+}

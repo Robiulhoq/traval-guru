@@ -1,0 +1,23 @@
+.hotel-container{
+    display: inline-block;
+}
+.hotel{
+width: 50%;
+display: flex;
+padding: 10px;
+}
+.hotel img{
+    height: 200px;
+    width: 300px;
+}
+.hotel-info{
+    margin-left: 15px;
+}
+.google-map{
+    display: flex;
+    width: 45%;
+    position: absolute;
+}
+.google-map img {
+    width: 100%;
+}

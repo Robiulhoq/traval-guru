@@ -1,0 +1,12 @@
+.tourplace{
+    height: 600px;
+    width: 200px;
+    display: inline-block;
+    margin: 20px;
+    
+}
+.tourplace img{
+    height: 350px;
+    width: 200px;
+    border-radius: 10px;
+}

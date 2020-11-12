@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+.img-container{
+    background-image:url(../../image/Rectangle\ 1.png);  
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+ 
+}
+.main-logo img{
+    padding-left: 50px;
+    padding-top: 20px;
+    height: 60px;
+    width: 100px;
+}
+.link{
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.link a{
+    color: black;
+    font-size: bold;
+    padding: 20px;
+}
+.top-header{
+    display: flex;
+    height: 100px;
+}
+.tour{
+    display: flex;
+}
